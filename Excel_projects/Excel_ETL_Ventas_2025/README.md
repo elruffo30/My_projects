@@ -4,7 +4,7 @@
 
 ### Conversión inicial
 
-El archivo original `reto_excel_ventas_2025.csv` se convirtió al formato de libro de Microsoft Excel (`ventas_raw_data.xlsx`) para:
+El archivo original `ventas_2025.csv` se convirtió al formato de libro de Microsoft Excel (`ventas_raw_data.xlsx`) para:
 
 - Trabajar con tablas estructuradas.
 - Aplicar Power Query y funciones de transformación.
